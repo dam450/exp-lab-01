@@ -22,14 +22,14 @@ Neste projeto foi abordado manipulação da DOM através do JavaScript, mascaram
 <br>
 
 <p align="center">
-  <a href="http://rocketpay-kohl.vercel.app/" target="_blank">
+  <a href="https://rocketpay-dam450.vercel.app/" target="_blank">
     <img alt="rocketpay" src=".github/project.png" width="100%">
   </a>
 </p>
 
 ## 🚀 Deploy
 
-O projeto está hospedado na Vercel e pode ser acessado através do link [rocketpay-kohl.vercel.app](http://rocketpay-kohl.vercel.app/).
+O projeto está hospedado na Vercel e pode ser acessado através do link [rocketpay-dam450.vercel.app](https://rocketpay-dam450.vercel.app/)
 
 ## 🦾 Tecnologias
 
